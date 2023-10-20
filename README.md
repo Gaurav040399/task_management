@@ -1,4 +1,4 @@
-# Task-Manager-CRUD-Angular15-MEAN-Stack
+# Task-Manager-CRUD-Angular
 
 
 A basic Task Manager Web Application developed on MEAN Stack with Angular version 15.
